@@ -205,6 +205,7 @@
   .thirdpart{
     display: flex;
     flex-direction: column;
+    padding-bottom: 80px;
   }
   .icons{
     padding-top: 33px;
@@ -403,7 +404,7 @@
   padding-left: 59px;
   }
   .thirdpart{
-    padding: 95px 150px 0 150px;
+    padding: 95px 150px 80px 150px;
     display: flex;
     justify-content: space-around;
  }
